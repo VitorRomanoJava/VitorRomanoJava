@@ -8,14 +8,8 @@
 
 &nbsp;
 <h2>Skills</h2>
-  <img src="https://github.com/user-attachments/assets/d5f01ba9-d737-478f-83c9-953aebf76a19" alt="Sem título-1" width="70">
-  <img src="https://github.com/user-attachments/assets/51a64b29-a1e0-4c1f-a42c-c9e37688f7ee" alt="css" width="69">
-  <img src="https://github.com/user-attachments/assets/d193e6fc-4197-437b-abd3-19aa386001dd" alt="30% (4)" width="60">
-  <img src="https://github.com/user-attachments/assets/0265a777-ecac-4afc-a5fd-02def88bc2f9" alt="30%" width="60">
-  <img src="https://github.com/user-attachments/assets/19a26640-60f5-4565-a6f7-bde3d6a98807" alt="30% (1)" width="60">
-  <img src="https://github.com/user-attachments/assets/1e3cfb76-91a1-436e-9d37-26114d115a8f" alt="dev-" width="75">
-
-<p><b>&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;50%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30%
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;20%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dev 70%</b></p>
-
-
+<img src="https://github.com/user-attachments/assets/d5f01ba9-d737-478f-83c9-953aebf76a19" alt="HTML" width="70">
+<img src="https://github.com/user-attachments/assets/51a64b29-a1e0-4c1f-a42c-c9e37688f7ee" alt="CSS" width="69">
+<img src="https://github.com/user-attachments/assets/d193e6fc-4197-437b-abd3-19aa386001dd" alt="JavaScript" width="60">
+<img src="https://github.com/user-attachments/assets/0265a777-ecac-4afc-a5fd-02def88bc2f9" alt="Java" width="60">
+<img src="https://github.com/user-attachments/assets/19a26640-60f5-4565-a6f7-bde3d6a98807" alt="Python" width="60">
