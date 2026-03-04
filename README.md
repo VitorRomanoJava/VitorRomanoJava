@@ -19,4 +19,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
  <b>Linkedin:</b> linkedin.com/in/vitor-romano-pena-a7777b286/
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25"/>
