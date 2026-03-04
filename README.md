@@ -19,4 +19,5 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
  <b>Linkedin:</b> linkedin.com/in/vitor-romano-pena-a7777b286
 
+<img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
