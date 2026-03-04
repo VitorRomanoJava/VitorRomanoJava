@@ -15,5 +15,5 @@
 
 <b>Contatos:</b>
 
-📩 vitorromanojava@gmail.com
+📩 vitorromanojava@gmail.com<br>
 💼 LinkedIn: linkedin.com/in/vitor-romano-pena-a7777b286/
