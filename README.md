@@ -15,6 +15,6 @@
 
 <b>Contatos:</b>
 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25" style="color:red;"/> <b>Gmail:</b> vitorromanojava@gmail.com<br>
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="25" style="filter: invert(1);"/> <b>Gmail:</b> vitorromanojava@gmail.com<br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/>
  <b>Linkedin:</b> linkedin.com/in/vitor-romano-pena-a7777b286
