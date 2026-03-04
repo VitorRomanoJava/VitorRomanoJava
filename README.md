@@ -15,5 +15,5 @@
 
 <b>Contatos:</b>
 
-📩 vitorromanojava@gmail.com<br>
-💼 LinkedIn: linkedin.com/in/vitor-romano-pena-a7777b286/
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <b>Gmail:</b> vitorromanojava@gmail.com<br>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> <b>Linkedin:</b> linkedin.com/in/vitor-romano-pena-a7777b286/
