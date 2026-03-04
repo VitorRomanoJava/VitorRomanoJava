@@ -12,7 +12,7 @@
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/ec50337a-5a14-488d-a0bc-05d835bb5f17" />
 </p>
 
-<b>Contatos:</b>
+<b>Fale comigo!</b>
 
 <img width="20" height="20" style="vertical-align: middle;" src="https://github.com/user-attachments/assets/70d5181a-e265-498f-b30c-6710d40260ac" />
 <b> Gmail:</b> vitorromanojava@gmail.com
