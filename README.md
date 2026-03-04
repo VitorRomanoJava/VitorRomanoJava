@@ -1,4 +1,3 @@
-<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/23244539-e098-4ed0-9209-76443f68b1ac" />
 
 <b>Tecnologias que mais uso:</b>
 
