@@ -14,5 +14,6 @@
 
 <b>Contatos:</b>
 
-<img src="https://img.shields.io/badge/-EA4335?style=for-the-badge&logo=gmail&logoColor=white" width="18"/> <b>Gmail: </b> vitorromanojava@gmail.com<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18"/> <b>Linkedin: </b> linkedin.com/in/vitor-romano-pena-a7777b286
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/70d5181a-e265-498f-b30c-6710d40260ac" />
+ <b>Gmail: </b> vitorromanojava@gmail.com<br>
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/03240114-ec97-4cb9-9324-b170b57a5ab4" /> <b>Linkedin: </b> linkedin.com/in/vitor-romano-pena-a7777b286
