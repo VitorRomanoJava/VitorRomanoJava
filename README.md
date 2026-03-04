@@ -14,6 +14,6 @@
 
 <b>Contatos:</b>
 
-<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/70d5181a-e265-498f-b30c-6710d40260ac" />
+<img width="26" height="26" alt="image" src="https://github.com/user-attachments/assets/70d5181a-e265-498f-b30c-6710d40260ac" />
  <b>Gmail: </b> vitorromanojava@gmail.com<br>
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/03240114-ec97-4cb9-9324-b170b57a5ab4" /> <b>Linkedin: </b> linkedin.com/in/vitor-romano-pena-a7777b286
