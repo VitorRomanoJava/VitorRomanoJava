@@ -1,5 +1,5 @@
-<H1>Web Developer</H1>
-
+<H1>Desenvolvedor Web</H1>
+<H2>Desenvolvedor Web e empreendedor, focado na criação de softwares e SaaS. Estudante de Análise e Desenvolvimento de Sistemas (USF). Desenvolvo projetos próprios e soluções para clientes, sempre em constante evolução.</H2>
 
 <b>Tecnologias que mais uso:</b>
 
