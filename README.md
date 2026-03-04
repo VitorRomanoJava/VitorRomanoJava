@@ -1,3 +1,5 @@
+
+
 <b>Tecnologias que mais uso:</b>
 
 <p>
@@ -10,3 +12,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </p>
+
+<b>Contatos:</b>
+
+📩 vitorromanojava@gmail.com
+💼 LinkedIn: linkedin.com/in/vitor-romano-pena-a7777b286/
