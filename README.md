@@ -1,5 +1,8 @@
 <H1>Desenvolvedor Web</H1>
-<p>Desenvolvedor Web e empreendedor, focado na criação de softwares e SaaS. Estudante de Análise e Desenvolvimento de Sistemas (USF). Desenvolvo projetos próprios e soluções para clientes, sempre em constante evolução.</p><br><br>
+<p>Empreendo no desenvolvimento web, especializado na criação de softwares, sistemas e plataformas SaaS.
+Atuo desenvolvendo soluções digitais para empresas e pessoas, desde sites e aplicações web até sistemas personalizados e automações.
+
+Estudante de Análise e Desenvolvimento de Sistemas (USF).</p><br><br>
 
 <b>Tecnologias que mais uso:</b>
 
