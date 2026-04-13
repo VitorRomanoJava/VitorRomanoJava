@@ -19,7 +19,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF).</p><br>
 
 <b>Contribuições extras:</b>
 
-<img width="36" height="36" alt="image" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
+<img width="26" height="26" alt="image" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 
 
 <b>Fale comigo!</b>
