@@ -11,7 +11,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF)
 
 ---
 
-<h3 align="center">🚀 Tecnologias que utilizo</h3>
+<h3 align="center">Tecnologias que mais utilizo</h3>
 
 <p align="center">
   <img width="40" src="https://github.com/user-attachments/assets/a33e06e2-953c-4753-8fef-77712f4789dc" />
@@ -23,6 +23,10 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF)
   <img width="40" src="https://github.com/user-attachments/assets/4a6e3378-fe40-44f5-8468-e25ef521c7e0" />
   <img width="40" src="https://github.com/user-attachments/assets/ec50337a-5a14-488d-a0bc-05d835bb5f17" />
 </p>
+
+<h3 align="center">Contruibuições extras</h3>
+
+<img width="26" height="26" alt="image" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 
 ---
 
