@@ -1,5 +1,5 @@
 <h1 align="center">Vitor Romano</h1>
-<h3 align="center">Desenvolvedor Web
+<h3 align="center">Desenvolvedor Web</h3>
 
 <p align="center">
 Empreendedor no desenvolvimento web, focado na criação de sistemas, plataformas SaaS e soluções digitais sob medida.<br>
