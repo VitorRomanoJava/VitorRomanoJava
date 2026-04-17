@@ -6,7 +6,7 @@ Empreendo no desenvolvimento web, especializado na criação de softwares, siste
 </p>
 
 <p align="center">
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (USF)
+Estudante de Análise e Desenvolvimento de Sistemas (USF)
 </p>
 
 ---
@@ -26,7 +26,7 @@ Empreendo no desenvolvimento web, especializado na criação de softwares, siste
 
 ---
 
-<h3 align="center">📫 Contato</h3>
+<h3 align="center">Fale comigo!</h3>
 
 <p align="center">
   <a href="mailto:vitorromanojava@gmail.com">
