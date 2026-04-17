@@ -29,6 +29,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF)
 <p align="center">
 <img width="26" height="26" alt="image" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 </p>
+
 ---
 
 <h3 align="center">Fale comigo!</h3>
