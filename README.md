@@ -1,15 +1,17 @@
 <h1 style="margin-bottom: 8px;">Sou Vitor, Desenvolvedor Web</h1>
 
-<p style="max-width: 720px; line-height: 1.6; margin-bottom: 12px;">
+<p style="max-width: 700px; line-height: 1.6;">
 Empreendedor no desenvolvimento web, especializado na criação de softwares, sistemas e plataformas SaaS.
 Atuo desenvolvendo soluções digitais para empresas e pessoas — desde sites institucionais e aplicações web até sistemas personalizados e automações.
 </p>
 
-<p style="margin-bottom: 20px; opacity: 0.9;">
+<p style="margin-top: 8px; opacity: 0.8;">
 Estudante de Análise e Desenvolvimento de Sistemas (USF).
 </p>
 
-<b style="display: block; margin-bottom: 10px;">Tecnologias que mais utilizo:</b>
+<br>
+
+<b style="font-size: 16px;">Tecnologias que mais utilizo:</b>
 
 <div class="stacks">
   <img src="https://github.com/user-attachments/assets/a33e06e2-953c-4753-8fef-77712f4789dc" />
@@ -22,17 +24,17 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF).
   <img src="https://github.com/user-attachments/assets/ec50337a-5a14-488d-a0bc-05d835bb5f17" />
 </div>
 
-<br>
+<br><br>
 
-<b style="display: block; margin-bottom: 8px;">Contribuições extras:</b>
+<b style="font-size: 16px;">Contribuições extras:</b>
 
 <div class="extras">
   <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
 </div>
 
-<br>
+<br><br>
 
-<b style="display: block; margin-bottom: 10px;">Fale comigo:</b>
+<b style="font-size: 16px;">Fale comigo:</b>
 
 <div class="contact">
   <div class="contact-item">
@@ -50,12 +52,13 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF).
   .stacks {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
+    gap: 12px;
+    margin-top: 12px;
   }
 
   .stacks img {
-    width: 40px;
-    height: 40px;
+    width: 42px;
+    height: 42px;
     padding: 6px;
     border-radius: 10px;
     background: rgba(255,255,255,0.03);
@@ -63,22 +66,27 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF).
   }
 
   .stacks img:hover {
-    transform: translateY(-3px);
+    transform: translateY(-4px) scale(1.05);
     background: rgba(255,255,255,0.08);
+  }
+
+  .extras {
+    margin-top: 10px;
   }
 
   .extras img {
     width: 32px;
     height: 32px;
     padding: 6px;
-    border-radius: 10px;
+    border-radius: 8px;
     background: rgba(255,255,255,0.03);
   }
 
   .contact {
+    margin-top: 12px;
     display: flex;
     flex-direction: column;
-    gap: 8px;
+    gap: 10px;
   }
 
   .contact-item {
