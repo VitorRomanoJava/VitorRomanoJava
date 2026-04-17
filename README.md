@@ -7,8 +7,8 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF).</p><br>
 <b>Tecnologias que mais uso:</b>
 
 <p>
-<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/a33e06e2-953c-4753-8fef-77712f4789dc" />
-<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/5561578b-b9d4-49f8-bec9-dbea513d7731" />
+<img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/a33e06e2-953c-4753-8fef-77712f4789dc" /> <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/5561578b-b9d4-49f8-bec9-dbea513d7731" />
+
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/495a1326-b738-4b24-b81b-4c5aa465edc0" />
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/b9d5705c-13af-4c46-879f-3a3819813ddc" />
 <img width="36" height="36" alt="image" src="https://github.com/user-attachments/assets/e341b1a7-3c0c-4e27-98cf-47ff68f014b2" />
