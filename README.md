@@ -3,7 +3,7 @@
 
 <p align="center">
 Empreendo no desenvolvimento web, especializado na criação de softwares, sistemas e plataformas SaaS.
-Meu objetivo é trazer soluções digitais para empresas e pessoas, contribuindo com dedicação e resultado.
+Meu objetivo é trazer soluções digitais para empresas e pessoas, contribuindo ao máximo.
 </p>
 
 <p align="center">
