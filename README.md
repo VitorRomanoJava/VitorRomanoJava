@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Web</h3>
 
 <p align="center">
-Empreendo no desenvolvimento web, especializado na criação de softwares, sistemas e plataformas SaaS. Atuo desenvolvendo soluções digitais para empresas e pessoas, desde sites e aplicações web até sistemas personalizados e automações.
+Empreendo no desenvolvimento web, especializado na criação de softwares, sistemas, plataformas SaaS e tudo relacionado. Meu objetivo é trazer soluções digitais para empresas e pessoas, contribuindo ao máximo.
 </p>
 
 <p align="center">
