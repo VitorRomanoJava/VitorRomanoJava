@@ -28,7 +28,7 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF)
 
 <p align="center">
 <img width="26" height="26" alt="image" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-<img width="26" height="26" alt="image" src="https://www.flaticon.com/br/icone-gratis/mysql_919836" />
+<img width="26" height="26" alt="MySQL" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 </p>
 
 ---
