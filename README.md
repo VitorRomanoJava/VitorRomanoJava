@@ -27,11 +27,11 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF)
 
 ---
 
-<h3 align="center">Contribuições extras</h3>
+<h3 align="center">Contruibuições extras</h3>
 
 <p align="center">
-  <img width="26" height="26" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-  <img width="26" height="26" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
+  <img width="26" height="26" alt="PHP" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
+  <img width="26" height="26" alt="MySQL" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 </p>
 
 ---
