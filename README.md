@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor Web</h3>
 
 <p align="center">
-Empreendo no desenvolvimento web, especializado na criação de softwares, sistemas, plataformas SaaS e tudo relacionado. Meu objetivo é trazer soluções digitais para empresas e pessoas, contribuindo ao máximo.
+Crio soluções digitais sob medida — de sites e landing pages até sistemas e plataformas SaaS — com foco em performance, estrutura e resultado real para empresas.
 </p>
 
 <p align="center">
@@ -24,16 +24,18 @@ Estudante de Análise e Desenvolvimento de Sistemas (USF)
   <img width="40" src="https://github.com/user-attachments/assets/ec50337a-5a14-488d-a0bc-05d835bb5f17" />
 </p>
 
-<h3 align="center">Contruibuições extras</h3>
+---
+
+<h3 align="center">Contribuições extras</h3>
 
 <p align="center">
-<img width="26" height="26" alt="image" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-<img width="26" height="26" alt="MySQL" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
+  <img width="26" height="26" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
+  <img width="26" height="26" src="https://cdn-icons-png.flaticon.com/512/919/919836.png" />
 </p>
 
 ---
 
-<h3 align="center">Fale comigo!</h3>
+<h3 align="center">Fale comigo</h3>
 
 <p align="center">
   <a href="mailto:vitorromanojava@gmail.com">
